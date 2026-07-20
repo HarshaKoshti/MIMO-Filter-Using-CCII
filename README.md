@@ -76,6 +76,6 @@ Images/
 
 **Harsha Koshti**
 
-Electronics Engineering Student
+Electrical and Electronics Engineering Student
 
 Aspiring VLSI & Analog Design Engineer
