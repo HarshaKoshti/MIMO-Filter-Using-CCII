@@ -60,13 +60,14 @@ Images/
 
 ## Schematic Design
 
-https://github.com/HarshaKoshti/MIMO-Filter-Using-CCII/blob/main/Images/MIMO%20scimattic.jpeg?raw=true
+![Schematic](Images/MIMO%20scimattic.jpeg)
 
 ---
 
 ## Output Waveform
 
-(https://github.com/HarshaKoshti/MIMO-Filter-Using-CCII/blob/main/Images/MIMO%20scimattic%20Output.jpeg?raw=true)
+![Output](Images/MIMO%20scimattic%20Output.jpeg)
+
 ---
 
 ## PCB Layout
