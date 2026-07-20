@@ -66,8 +66,7 @@ https://github.com/HarshaKoshti/MIMO-Filter-Using-CCII/blob/main/Images/MIMO%20s
 
 ## Output Waveform
 
-![Output](Images/MIMO%20scimattic%20Output.jpeg)
-
+(https://github.com/HarshaKoshti/MIMO-Filter-Using-CCII/blob/main/Images/MIMO%20scimattic%20Output.jpeg?raw=true)
 ---
 
 ## PCB Layout
