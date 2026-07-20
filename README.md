@@ -58,6 +58,27 @@ Images/
 
 ---
 
+## Schematic Design
+
+
+---
+
+## Output Waveform
+
+![Output](Images/MIMO%20scimattic%20Output.jpeg)
+
+---
+
+## PCB Layout
+
+![PCB](Images/MIMO%20PCB%20Design.jpeg)
+
+---
+
+## 3D PCB View
+
+![PCB3D](Images/MIMO%20PCB%203D.jpeg)
+
 ## Skills Demonstrated
 
 - Analog Circuit Design
