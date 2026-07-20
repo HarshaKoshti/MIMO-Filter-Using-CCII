@@ -41,8 +41,6 @@ Simulation/
 PCB_Layout/
 Images/
 ```
-https://github.com/HarshaKoshti/MIMO-Filter-Using-CCII/blob/main/Images/MIMO%20scimattic.jpeg?raw=true
-
 
 ---
 
